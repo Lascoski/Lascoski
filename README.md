@@ -68,5 +68,5 @@ Projeto com testes automatizados, criação de imagem Docker, pipeline CI/CD com
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Natali%20Lascoski-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/natali-lascoski-eng)
-**Lascoski/Lascoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Natali%20Lascoski-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/natali-lascoski-eng/)
+
